@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  CoreDataManagerSwift
 //
-//  Created by Shanthakumar on 19/07/18.
-//  Copyright © 2018 Shanthakumar. All rights reserved.
+//  Created by Shanth L on 19/07/18.
+//  Copyright © 2018 Shanth L. All rights reserved.
 //
 
 import UIKit

@@ -13,6 +13,7 @@
 		061501152100780E00D72A64 /* CoreDataManagerSwift.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 061501132100780E00D72A64 /* CoreDataManagerSwift.xcdatamodeld */; };
 		061501172100781600D72A64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 061501162100781600D72A64 /* Assets.xcassets */; };
 		0615011A2100781600D72A64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 061501182100781600D72A64 /* LaunchScreen.storyboard */; };
+		061501222100782A00D72A64 /* DBManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061501212100782A00D72A64 /* DBManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		061501162100781600D72A64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		061501192100781600D72A64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0615011B2100781600D72A64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		061501212100782A00D72A64 /* DBManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				0615010C2100780E00D72A64 /* AppDelegate.swift */,
 				0615010E2100780E00D72A64 /* ViewController.swift */,
+				061501212100782A00D72A64 /* DBManager.swift */,
 				061501102100780E00D72A64 /* Main.storyboard */,
 				061501162100781600D72A64 /* Assets.xcassets */,
 				061501182100781600D72A64 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0615010F2100780E00D72A64 /* ViewController.swift in Sources */,
 				061501152100780E00D72A64 /* CoreDataManagerSwift.xcdatamodeld in Sources */,
 				0615010D2100780E00D72A64 /* AppDelegate.swift in Sources */,
+				061501222100782A00D72A64 /* DBManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17D47" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BookLibrary" representedClassName="BookLibrary" syncable="YES" codeGenerationType="class">
+        <attribute name="book_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="book_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="book_status" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="BookLibrary" positionX="-63" positionY="-18" width="128" height="90"/>
+    </elements>
 </model>
